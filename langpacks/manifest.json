@@ -15,29 +15,29 @@
         {
             "locale": "en",
             "name": "English",
-            "url": "https://raw.githubusercontent.com/<your-org>/<your-repo>/main/langpacks/en/app.json",
-            "sha256": "<fill-later>",
+            "url": "https://raw.githubusercontent.com/d11405003/guide-langpacks/master/langpacks/en/app.json",
+            "sha256": "shasum -a 256 langpacks/en/app.json",
             "updatedAt": "2025-08-24T00:00:00Z"
         },
         {
             "locale": "zh",
             "name": "繁體中文",
-            "url": "https://raw.githubusercontent.com/<your-org>/<your-repo>/main/langpacks/zh/app.json",
-            "sha256": "<fill-later>",
+            "url": "https://raw.githubusercontent.com/d11405003/guide-langpacks/master/langpacks/zh/app.json",
+            "sha256": "shasum -a 256 langpacks/en/app.json",
             "updatedAt": "2025-08-24T00:00:00Z"
         },
         {
             "locale": "ja",
             "name": "日本語",
-            "url": "https://raw.githubusercontent.com/<your-org>/<your-repo>/main/langpacks/ja/app.json",
-            "sha256": "<fill-later>",
+            "url": "https://raw.githubusercontent.com/d11405003/guide-langpacks/master/langpacks/ja/app.json",
+            "sha256": "shasum -a 256 langpacks/en/app.json",
             "updatedAt": "2025-08-24T00:00:00Z"
         },
         {
             "locale": "ko",
             "name": "한국어",
-            "url": "https://raw.githubusercontent.com/<your-org>/<your-repo>/main/langpacks/ko/app.json",
-            "sha256": "<fill-later>",
+            "url": "https://raw.githubusercontent.com/d11405003/guide-langpacks/master/langpacks/ko/app.json",
+            "sha256": "shasum -a 256 langpacks/en/app.json",
             "updatedAt": "2025-08-24T00:00:00Z"
         }
     ]
