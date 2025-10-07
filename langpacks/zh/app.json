@@ -27,11 +27,15 @@
       },
       "target_focus": {
         "menu": "這裡的選單可以滑動觀看更多景點喔！",
+        "change_button": "點擊這裡可以切換導覽點呈現方式。",
         "setting": "點擊這裡可進入設定頁面。",
         "qr": "掃描 QR Code 的功能在這裡唷！",
         "back_home": "可以點這裡快速回到首頁～",
         "guide": "點這裡可以再次查看提示說明！",
         "skip": "跳過"
+      },
+      "qr_page": {
+        "title": "QR Code 掃描"
       },
       "page1": {
         "title": "出入口",
