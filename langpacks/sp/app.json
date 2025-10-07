@@ -1,17 +1,95 @@
 {
     "locale": "zh",
     "strings": {
-      "title": "龍門閉鎖陣地導覽App",
-      "app_name": "旅遊導覽",
-      "start": "開始導覽",
-      "settings": "設定",
-      "language": "語言",
-      "welcome": "歡迎使用龍門閉鎖陣地導覽App",
-      "description": "這是一個龍門閉鎖陣地專用的導覽應用程式，提供各種功能選單供使用者選擇。",
-      "logout": "登出",
-      "logout_message": "你選了登出。",
-      "menu_title": "功能選單",
-      "lang_saved": "語言已儲存",
+
+      "title": "App de guía del área fortificada de Longmen",
+      "setting_page": {
+        "title": "Configuración",
+        "general": "General",
+        "language": "Idioma",
+        "clean_cache": "Limpiar caché",
+        "clean_cache_message": "Eliminar archivos de voz descargados, se descargarán nuevamente al reproducir.",
+        "about": "Acerca de",
+        "app_name": "Versión de la App de guía turística",
+        "version": "v1.0.0",
+        "lang_saved": "Idioma guardado"
+      },
+      "home_page": {
+        "welcome": "Bienvenido a la App de guía del área fortificada de Longmen",
+        "description": "Esta es una aplicación de guía dedicada al área fortificada de Longmen, que ofrece varios menús de funciones para que los usuarios elijan.",
+        "menu_title": "Menú de puntos de guía",
+        "war_games_room": "Sala de juegos de guerra"
+      },
+      "text_size": {
+        "title": "Control de tamaño de texto",
+        "now": "Tamaño actual",
+        "zoom_in": "Aumentar",
+        "zoom_out": "Disminuir",
+        "reset": "Restablecer"
+      },
+      "target_focus": {
+        "menu": "¡Puedes deslizar el menú aquí para ver más lugares!",
+        "change_button": "Haz clic aquí para cambiar la forma de mostrar los puntos de guía.",
+        "setting": "Haz clic aquí para ir a la página de configuración.",
+        "qr": "¡La función de escaneo de QR está aquí!",
+        "back_home": "¡Haz clic aquí para volver rápidamente a la página principal!",
+        "guide": "¡Haz clic aquí para ver nuevamente las instrucciones!",
+        "skip": "Saltar"
+      },
+      "qr_page": {
+        "title": "Escaneo de QR Code"
+      },
+      "page1": {
+        "title": "Entrada/Salida",
+        "introduce": "Introducción a la entrada/salida",
+        "content": "El área fortificada de Longmen está ubicada en la zona de Nankan, al este de la isla principal de Penghu. Es una fortaleza subterránea construida sobre una meseta de basalto, que controla la ruta marítima entre Taiwán y Magong. Desde la guerra de Yiwei en la dinastía Qing, ha tenido importancia estratégica. Durante la ocupación japonesa, el ejército japonés desembarcó y fortificó el área, y al final de la Segunda Guerra Mundial se construyeron defensas. Tras la recuperación, el ejército nacional fortaleció la línea defensiva en 1961 bajo la orden de Chiang Kai-shek, construyendo una fortaleza subterránea con búnkeres de ametralladoras, cañones antitanque y puestos de observación, todos conectados por pasillos. Tras la retirada del ejército, el área quedó abandonada hasta que fue descubierta y restaurada en 2009. Ahora está abierta al público para que los visitantes experimenten el ambiente militar histórico."
+      },
+      "page2": {
+        "title": "Orden del Presidente Chiang",
+        "introduce": "Introducción a la orden del Presidente Chiang",
+        "content": "Después de la batalla de artillería de 1958, el ejército nacional reevaluó la importancia estratégica de Penghu. En 1961, el presidente Chiang Kai-shek inspeccionó Penghu y, al notar la debilidad de la defensa costera oriental, ordenó la construcción de una fortaleza cerrada capaz de albergar una compañía reforzada para defender la costa este y bloquear la playa entre Longmen y Shanshui. La fortaleza fue completada por la 1357ª unidad del ejército el 28 de diciembre de ese año, diseñada como una fortaleza subterránea capaz de operar de forma independiente, con siete búnkeres de ametralladoras, dos cañones antitanque de 57 mm y 705 metros de pasillos. Toda la estructura está hecha de hormigón armado y reforzada con basalto local, convirtiéndose en la línea defensiva clave del este de Penghu."
+      },
+      "page3": {
+        "title": "Mesa de juegos de guerra",
+        "introduce": "Introducción a la mesa de juegos de guerra",
+        "content": "La sala de juegos de guerra está ubicada en el suroeste de la fortaleza, con una mesa central que muestra la topografía y la disposición de las instalaciones de Longmen. La mesa muestra la ubicación de depósitos de municiones, sala de comunicaciones, búnkeres de ametralladoras y cañones, todos interconectados. La orientación de la mesa facilita la simulación táctica, no corresponde al norte-sur real: la entrada que da al puerto de Longmen está abajo, y la derecha representa el área de defensa marítima. Se utilizan símbolos militares para marcar unidades, como compañías, ametralladoras de 30 mm y cañones antitanque de 57 mm. El diseño original incluía siete búnkeres de ametralladoras y dos cañones, luego se añadieron tres búnkeres internos, sumando diez en total. La mesa ayuda a comprender la lógica espacial y la disposición defensiva, facilitando la simulación y el despliegue de tropas."
+      },
+      "page4": {
+        "title": "Mapa de Longmen",
+        "introduce": "Introducción al mapa de Longmen",
+        "content": "Este mural muestra el paisaje geográfico del este de la isla principal de Penghu, con la ubicación de la fortaleza de Longmen Nankan marcada en la parte inferior central, frente al puerto comercial de Longmen. A la derecha se indica Longmen Gulang, uno de los ocho paisajes antiguos de Penghu, que fue un lugar de entrenamiento militar. Siguiendo la costa hacia el norte se encuentra la playa de Longmen Houwan y, siguiendo la carretera, los pueblos de Guoye, Nanliao y Huxi. El mapa muestra que la fortaleza de Longmen controla el acceso al puerto y apoya la defensa de las playas vulnerables. Cerca de la fortaleza hay monumentos históricos como el monumento de desembarco japonés y refugios militares de la era japonesa, recordando los tiempos de guerra."
+      },
+      "page5": {
+        "title": "Segunda pared",
+        "introduce": "Introducción a la segunda pared",
+        "content": "Este mural ilustra cronológicamente el proceso de desembarco japonés en la guerra de Yiwei de 1895, desde el ataque naval hasta el desembarco exitoso en Longmen Lijhengjiao, Penghu. La esquina superior derecha muestra la ruta de ataque de la flota japonesa, mientras que el lado izquierdo muestra el despliegue defensivo de Penghu. La obra refleja la intensidad de la guerra y las estrategias militares de la época."
+      },
+      "page6": {
+        "title": "Tercera y cuarta pared",
+        "introduce": "Introducción a la tercera y cuarta pared",
+        "content": "Estos murales muestran el proceso de construcción de la fortaleza de Longmen. La tercera pared muestra a los soldados transportando piedras y tierra en la ladera, con colores terrosos que simbolizan la conexión entre los soldados y la isla, reflejando la dificultad de la construcción. La cuarta pared muestra una escena cálida de interacción entre soldados y mujeres, resaltando el lado humano. Las dos pinturas contrastan fuertemente, mostrando la presión y dificultad de la construcción y la humanidad persistente."
+      },
+      "page7": {
+        "title": "Sala de comunicaciones",
+        "introduce": "Introducción a la sala de comunicaciones",
+        "content": "Ahora estás en la 'Sala Zhongshan', originalmente un refugio para reuniones y entrenamiento de soldados, ahora convertida en sala de proyección de películas históricas de la fortaleza de Longmen. En la pared exterior se conservan las troneras originales, desde donde los soldados observaban y disparaban contra el enemigo. Para recrear el ambiente militar, se exhiben binoculares militares y una ametralladora Browning M30, permitiendo a los visitantes experimentar la operación y sentir la presión real de los soldados en tiempos de guerra."
+      },
+      "page8": {
+        "title": "Depósito de municiones",
+        "introduce": "Introducción al depósito de municiones",
+        "content": "El depósito de municiones fue el núcleo defensivo más importante, utilizado para almacenar armas y municiones, y ahora exhibe equipos militares del ejército nacional. Se pueden ver modelos de fusiles tipo 57 y cañones antitanque de 57 mm, armas de diseño estadounidense utilizadas en islas fortificadas para defenderse de desembarcos. También se exhiben cajas de municiones y modelos de proyectiles, permitiendo a los visitantes experimentar la dificultad y tensión de los soldados al transportar municiones y estar siempre listos para el combate."
+      },
+      "page9": {
+        "title": "Búnker de cañón",
+        "introduce": "Introducción al búnker de cañón",
+        "content": "Ahora estás frente al búnker antitanque orientado al sur (número Peng015-(x)019), de perfil bajo y camuflado con el terreno, capaz de abrir fuego rápidamente contra embarcaciones enemigas. Dentro se exhibe un cañón antitanque estadounidense M1 de 57 mm, que puede girar y ajustar la elevación, con un alcance máximo de 4,600 metros, operado por cinco personas (selector, municionero, cargador, apuntador y comandante). Cada orden y acción requiere rapidez y precisión. Acércate para observar y empujar el cañón, y experimenta el peso y la tensión de la defensa costera."
+      },
+      "page10": {
+        "title": "Conos silenciadores",
+        "introduce": "Introducción a los conos silenciadores",
+        "content": "Mira hacia arriba y verás los 'conos silenciadores' en el techo, un diseño acústico especial para reducir el eco y el ruido de los disparos. Hechos de arena local y pasta de arroz glutinoso, son resistentes y característicos de Penghu. Su forma puntiaguda dispersa y absorbe las ondas sonoras, reduciendo el eco y protegiendo la audición de los soldados. Puedes aplaudir o gritar aquí para experimentar cómo este diseño hace que el túnel sea mucho más silencioso."
+      },
+
       "feature_1": "出入口",
       "feature_2": "頁面 2",
       "feature_3": "頁面 3",
