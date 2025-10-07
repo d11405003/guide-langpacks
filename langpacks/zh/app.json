@@ -16,7 +16,8 @@
       "home_page": {
         "welcome": "歡迎使用龍門閉鎖陣地導覽App",
         "description": "這是一個龍門閉鎖陣地專用的導覽應用程式，提供各種功能選單供使用者選擇。",
-        "menu_title": "導覽點選單"
+        "menu_title": "導覽點選單",
+        "war_games_room": "兵棋室"
       },
       "text_size": {
         "title": "文字大小控制",
