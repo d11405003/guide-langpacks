@@ -12,7 +12,8 @@
         "about": "Acerca de",
         "app_name": "Versión de la App de guía turística",
         "version": "v1.0.0",
-        "lang_saved": "Idioma guardado"
+        "lang_saved": "Idioma guardado",
+        "medal": "Medalla"
       },
       "home_page": {
         "welcome": "Bienvenido a la App de guía del área fortificada de Longmen",
@@ -39,6 +40,13 @@
       "qr_page": {
         "title": "Escaneo de QR Code"
       },
+
+      "medal_page": {
+        "title": "Colección de medallas",
+        "description": "Tus medallas",
+        "lock": "Desbloqueado"
+      },
+
       "page1": {
         "title": "Entrada/Salida",
         "introduce": "Introducción a la entrada/salida",

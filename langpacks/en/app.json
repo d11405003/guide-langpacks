@@ -11,7 +11,8 @@
         "about": "About",
         "app_name": "Tour Guide App Version",
         "version": "v1.0.0",
-        "lang_saved": "Language Saved"
+        "lang_saved": "Language Saved",
+        "medal": "Medal"
       },
       "home_page": {
         "welcome": "Welcome to the Longmen Defensive Position Guide App",
@@ -38,6 +39,13 @@
       "qr_page": {
         "title": "QR Code Scan"
       },
+
+      "medal_page":{
+        "title": "Medal Collection",
+        "description": "Your Medals",
+        "lock": "Unlocked"
+      },
+
       "page1": {
         "title": "Entrance/Exit",
         "introduce": "Entrance/Exit Introduction",

@@ -11,7 +11,8 @@
         "about": "關於",
         "app_name": "旅遊導覽App版本",
         "version": "v1.0.0",
-        "lang_saved": "語言已儲存"
+        "lang_saved": "語言已儲存",
+        "medal": "勳章"
       },
       "home_page": {
         "welcome": "歡迎使用龍門閉鎖陣地導覽App",
@@ -38,6 +39,13 @@
       "qr_page": {
         "title": "QR Code 掃描"
       },
+
+      "medal_page": {
+        "title": "勳章收藏",
+        "description": "您的勳章",
+        "lock": "未解鎖"
+      },
+
       "page1": {
         "title": "出入口",
         "introduce": "出入口介紹",

@@ -12,7 +12,8 @@
         "about": "アプリについて",
         "app_name": "観光ガイドAppバージョン",
         "version": "v1.0.0",
-        "lang_saved": "言語が保存されました"
+        "lang_saved": "言語が保存されました",
+        "medal": "メダル"
       },
       "home_page": {
         "welcome": "龍門閉鎖陣地ガイドAppへようこそ",
@@ -39,6 +40,13 @@
       "qr_page": {
         "title": "QRコードスキャン"
       },
+
+      "medal_page": {
+        "title": "メダルコレクション",
+        "description": "あなたのメダル",
+        "lock": "ロック解除されていません"
+      },
+
       "page1": {
         "title": "出入口",
         "introduce": "出入口の紹介",
