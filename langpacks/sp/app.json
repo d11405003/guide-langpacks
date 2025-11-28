@@ -35,7 +35,11 @@
         "qr": "¡La función de escaneo de QR está aquí!",
         "back_home": "¡Haz clic aquí para volver rápidamente a la página principal!",
         "guide": "¡Haz clic aquí para ver nuevamente las instrucciones!",
-        "skip": "Saltar"
+        "skip": "Saltar",
+
+        "image_play": "🖼️ Reproducción automática de imágenes, haz clic para ampliar o reducir",
+        "audio_play": "🎵 Función de reproducción de música",
+        "text_size": "📝 Control de tamaño de texto"
       },
       "qr_page": {
         "title": "Escaneo de QR Code"

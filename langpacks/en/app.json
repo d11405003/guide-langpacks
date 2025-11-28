@@ -34,7 +34,11 @@
         "qr": "The QR Code scanning feature is here!",
         "back_home": "Click here to quickly return to the home page.",
         "guide": "Click here to view the instructions again!",
-        "skip": "Skip"
+        "skip": "Skip",
+
+        "image_play": "🖼️ Image auto-play, click to zoom in/out",
+        "audio_play": "🎵 Music playback feature",
+        "text_size": "📝 Text size control"
       },
       "qr_page": {
         "title": "QR Code Scan"

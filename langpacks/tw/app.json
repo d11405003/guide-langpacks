@@ -34,7 +34,11 @@
         "qr": "掃描 QR Code 的功能在這裡唷！",
         "back_home": "可以點這裡快速回到首頁～",
         "guide": "點這裡可以再次查看提示說明！",
-        "skip": "跳過"
+        "skip": "跳過",
+
+        "image_play": "🖼️ 圖片自動輪播，點擊可放大縮放",
+        "audio_play": "🎵 音樂播放功能",
+        "text_size": "📝 文字大小控制"
       },
       "qr_page": {
         "title": "QR Code 掃描"
